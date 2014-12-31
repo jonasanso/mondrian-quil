@@ -1,6 +1,7 @@
 # mondrian-quil
 
 A Quil sketch designed to show a mondrian like drawing.
+If you want to know more about quil https://github.com/quil/quil
 
 ## Usage
 
